@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">caosApp</string>
+    <string name="name_app">CAOS</string>
+    <string name="comprar">Comprar</string>
+    <string name="tenis">Nike Air Mag Back to the Future 2016</string>
+    <string name="descripcion">Recordados como los tenis que se calzó Marty McFly en la segunda entrega de la saga Back to the Future. Los sneakers fabricados por Nike son los más deseados entre los coleccionistas, ya que la marca fue quien diseñó específicamente estos tenis para la película en 1989</string>
+    <string name="precio">USD 26.000</string>
+    <string name="vista_hombre">Hombres</string>
+    <string name="hombre">Hombres</string>
+    <string name="mujer">Mujeres</string>
+    <string name="nino">Niños</string>
+    <string name="vacio">Categorias</string>
+</resources>
